@@ -1,5 +1,5 @@
 # Hi there 👋
-<img src="https://github.com/gtb-2023-cao-qi/github/blob/main/img/me.jpg"  height="300" alt="logo"/>
+<img src="https://github.com/gtb-2023-cao-qi/.github/blob/main/img/me.jpg"  height="300" alt="logo"/>
 
 ## Introduction
 Hi guys!
